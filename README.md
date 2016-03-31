@@ -1,6 +1,6 @@
 # nothing.js
 
-Nothing.js is what all every micro-module developer needs. It is the Saint Grail of JS modular development. You definitely need it in your project, make sure your project adds it as a strict dependency.
+Nothing.js is what every micro-module developer needs. It is the Saint Grail of JS modular development. You definitely need it in your project, make sure your project adds it as a strict dependency.
 
 ## Usage
 
